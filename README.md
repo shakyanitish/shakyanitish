@@ -55,18 +55,6 @@ const nitish = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyanitish&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shakyanitish&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakyanitish&theme=tokyo-night&hide_border=true&area=true" />
-
 </div>
 
 <div align="center">
