@@ -73,7 +73,7 @@ const nitish = {
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=shakyanitish&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=shakyanitish&color=2F81F7&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VIEWS)
 
 </div>
 
