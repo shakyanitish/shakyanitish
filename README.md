@@ -71,10 +71,4 @@ const nitish = {
 
 </div>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=shakyanitish&color=2F81F7&style=for-the-badge&label=%F0%9F%91%81%EF%B8%8F%20PROFILE%20VIEWS)
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:2F81F7&height=100&section=footer" />
