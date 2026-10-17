@@ -50,7 +50,7 @@ const nitish = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakyanitish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakyanitish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=stars,prs,issues" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakyanitish&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyanitish&theme=tokyonight&hide_border=true" />
