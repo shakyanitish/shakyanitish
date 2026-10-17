@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:1F6FEB&height=200&section=header&text=Nitish%20Shakya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20·%20PHP%20%26%20Laravel%20·%20Python%20%2F%20Django&descAlignY=55&descSize=18" />
+# Hi, I'm Nitish Shakya 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+focused+on+PHP+%26+Laravel;Exploring+Python%2C+Django+%26+Machine+Learning;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **PHP & Laravel developer** with about a year of experience at **Longtail E-Media**, working on backend features and CMS platforms for live client websites. I hold a **B.Sc. in CSIT** from Amrit Campus, Tribhuvan University, and spend my free time building full-stack apps and machine learning projects.
+I'm a **PHP & Laravel developer** with about a year of professional experience, working on backend features and CMS platforms for live client websites. I hold a **B.Sc. in CSIT**, and spend my free time building full-stack apps and machine learning projects.
 
 ```text
 const nitish = {
@@ -40,7 +40,7 @@ const nitish = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,js,python,html,css,opencv,tensorflow,git,github&perline=9" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,python,html,css,opencv,tensorflow,git,github&perline=10" />
 
 </div>
 
@@ -53,7 +53,7 @@ const nitish = {
 <td width="120" align="center">🏢</td>
 <td>
 
-**PHP & Laravel Developer** · [Longtail E-Media](https://www.longtail.info/) · Kathmandu, Nepal · ~1 year
+**PHP & Laravel Developer** · Kathmandu, Nepal · ~1 year
 
 - Built custom CMS systems for client content management
 - Developed and maintained backend features for production websites
