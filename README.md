@@ -46,26 +46,6 @@ const nitish = {
 
 <br/>
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="120" align="center">🏢</td>
-<td>
-
-**PHP & Laravel Developer** · Kathmandu, Nepal · ~1 year
-
-- Built custom CMS systems for client content management
-- Developed and maintained backend features for production websites
-- Wrote and debugged SQL queries to resolve live production issues
-- Maintained client sites: [edmark.edu.np](https://www.edmark.edu.np/) · [sherpaadventure.com](https://www.sherpaadventure.com/) · [idealmodel.edu.np](https://www.idealmodel.edu.np/) · [jmt.org.np](https://www.jmt.org.np/) · [himalayantightlines.com](https://www.himalayantightlines.com/) · [hotelmoonlight.com](https://www.hotelmoonlight.com/)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
